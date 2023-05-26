@@ -127,7 +127,7 @@ python main.py /path/to/your/torrent_file.torrent /path/to/your/vpn_config.json
 
 Replace /path/to/your/torrent_file.torrent with the path to the torrent file you want to download, and replace /path/to/your/vpn_config.json with the path to your VPN configuration file.
 
-## Innacurate Speed Readings
+## Inaccurate Speed Readings
 Libtorrent does not accurately report download speeds in real time when used in this way. The actual average speed is reported when the torrent finishes downloading.
 
 ## Legal Disclaimer
